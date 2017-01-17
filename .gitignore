@@ -1,0 +1,37 @@
+
+# NPM logs
+npm-debug.log
+
+# Node Modules
+**/node_modules/*
+
+# Tests Screenshots
+**/screenshots/*
+
+# Tests output
+**/tests_output/*
+
+# Unit test coverage output
+mochawesome-reports/
+
+# Reports
+**/reports/*
+
+# Build folder
+build/*
+
+# Dist folder
+dist/*
+
+# Webstrom folder
+*.idea/
+
+# Coverage folder
+coverage/*
+
+# Log file
+debug.log
+*.log
+*.log.*
+
+nbproject/*
